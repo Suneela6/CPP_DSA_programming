@@ -1,0 +1,3092 @@
+11:19:22: Starting D:\Repo\hmicsandbox\build\Hmi_win_64-Release\AppMain\HMIC.exe...
+Starting:IPCHmi
+2024-10-18 11:19:22 VERBOSE [RAMP][HMIC][HMIC] Started, 2024-10-18 11:19:22
+2024-10-18 11:19:22 VERBOSE [RAMP][HMIC][InitAppMain] userGroupSettings success: , 45521:45521,40091
+2024-10-18 11:19:22 VERBOSE [RAMP][HMIC][HMIC] InitAppMain, 2024-10-18 11:19:22
+2024-10-18 11:19:22 VERBOSE [RAMP][HMIC][HMIC] HmiApp Version, 
+2024-10-18 11:19:22 VERBOSE [RAMP][HMIC][HMIC] DeepScreen Commit, 
+2024-10-18 11:19:22 VERBOSE [RAMP][HMIC][HMIC] Tag Name, 
+2024-10-18 11:19:22 VERBOSE [RAMP][HMIC][Singleton] constructor called, class ramp::CalibrationWrapper
+2024-10-18 11:19:22 VERBOSE [RAMP][HMIC][Singleton] constructor called, class ramp::calibrations::CalibrationImpl
+2024-10-18 11:19:22 VERBOSE [RAMP][HMIC][Singleton] constructor called, class ramp::calibrations::CalibrationTable
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][ThreadLoop] Created, QtTick
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][ThreadLoop] Default priority is set already
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][CALW] ENUM, GMModel, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][CALW] Int, DISPLAY_CONFIGURATION_MAPPING, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][IpcDataPersister] Count, 3
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][Data] 1, CurrentCAL, 793
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][Data] 2, FU_HMIC_THEME_ID, 34
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][Data] 3, IPC_CURRENT_VIEW_INFO, 5
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::IpcDisplayHandler
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][IpcDisplayHandler] Display Config, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][IpcDisplayHandler] Display type not configured
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][IpcDisplayHandler] IpcDisplayHandler vehicle_display_type, -1
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][CALW] ENUM, K_DRIVER_POSITION, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::HmiServices
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][CALW] ENUM, GMBrand, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][CALW] ENUM, GMTrim, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][CALW] ENUM, COUNTRY_CODE, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][VdataPowerModeLogic] Constructor
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][VdataSYS] Vdata_power_mode_Triggred, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][VdataSYS] VDATA_SYS_STATE_LOCALINFOTAIN triggred
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][VdataPowerModeLogic] evG_Susd_PowerMode_Off
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][VdataPowerModeLogic] send Backlight On to Model
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][CALW] ENUM, KeOCD_int_VEHICLE_PROPULSION_TYPE, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][InitAppMain] gm::ipc::FU_HMIC_DisplayCalibrationType, -1
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_DRIVER_POSITION, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_GMModel, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_GMTrim, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_GMBrand, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_DriverPositionType, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_PropulsionDisplayType, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_Unit, 0
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][InitAppMain] No Display configuration found, exiting The App.
+Stopping:IPCHmi
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][Singleton] destructor called, class gm::ipc::HmiServices
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][Singleton] destructor called, class gm::ipc::IpcDisplayHandler
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][ThreadLoop] Stoping, QtTick, 29460
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][ThreadLoop] Stopped, QtTick, 29460
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][Singleton] destructor called, class ramp::CalibrationWrapper
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][Singleton] destructor called, class ramp::calibrations::CalibrationImpl
+2024-10-18 11:21:23 VERBOSE [RAMP][HMIC][Singleton] destructor called, class ramp::calibrations::CalibrationTable
+2024-10-18 11:21:23[Singleton] destructor called, class ramp::FunctionRegister2024-10-18 11:21:23[ThreadLoop] Error Stopping, FileSystemMon, -12024-10-18 11:21:23[ThreadLoop] Error Stopping, FsaTx, -12024-10-18 11:21:23[ThreadLoop] Error Stopping, ThreadLoop, -12024-10-18 11:21:23[ThreadLoop] Error Stopping, ThreadLoop, -12024-10-18 11:21:23[ThreadLoop] Stoping, PersistentBindableStorage, 152522024-10-18 11:21:23[ThreadLoop] Stopped, PersistentBindableStorage, 152522024-10-18 11:21:23[ThreadLoop] Error Stopping, Tick, -111:21:23: The process was ended forcefully.
+
+11:22:39: Starting D:\Repo\hmicsandbox\build\Hmi_win_64-Release\AppMain\HMIC.exe...
+Starting:IPCHmi
+CalibrationFolder 
+2024-10-18 11:22:39 VERBOSE [RAMP][HMIC][HMIC] Started, 2024-10-18 11:22:39
+2024-10-18 11:22:39 VERBOSE [RAMP][HMIC][InitAppMain] userGroupSettings success: , 45521:45521,40091
+2024-10-18 11:22:39 VERBOSE [RAMP][HMIC][HMIC] InitAppMain, 2024-10-18 11:22:39
+2024-10-18 11:22:39 VERBOSE [RAMP][HMIC][HMIC] HmiApp Version, 
+2024-10-18 11:22:39 VERBOSE [RAMP][HMIC][HMIC] DeepScreen Commit, 
+2024-10-18 11:22:39 VERBOSE [RAMP][HMIC][HMIC] Tag Name, 
+2024-10-18 11:22:39 VERBOSE [RAMP][HMIC][Singleton] constructor called, class ramp::CalibrationWrapper
+2024-10-18 11:22:39 VERBOSE [RAMP][HMIC][Singleton] constructor called, class ramp::calibrations::CalibrationImpl
+2024-10-18 11:22:39 VERBOSE [RAMP][HMIC][Singleton] constructor called, class ramp::calibrations::CalibrationTable
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][ThreadLoop] Created, QtTick
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][CALW] ENUM, GMModel, 40
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][ThreadLoop] Default priority is set already
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][CALW] Int, DISPLAY_CONFIGURATION_MAPPING, 793
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][IpcDataPersister] Count, 3
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][Data] 1, CurrentCAL, 793
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][Data] 2, FU_HMIC_THEME_ID, 34
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][Data] 3, IPC_CURRENT_VIEW_INFO, 5
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::IpcDisplayHandler
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][IpcDisplayHandler] Display Config, 793
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][IpcDisplayHandler] IpcDisplayHandler vehicle_display_type, 14
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][CALW] ENUM, K_DRIVER_POSITION, 0
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::HmiServices
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][CALW] ENUM, GMBrand, 3
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][CALW] ENUM, GMTrim, 0
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][CALW] ENUM, COUNTRY_CODE, 0
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][VdataPowerModeLogic] Constructor
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][VdataSYS] Vdata_power_mode_Triggred, 0
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][VdataSYS] VDATA_SYS_STATE_LOCALINFOTAIN triggred
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][VdataPowerModeLogic] evG_Susd_PowerMode_Off
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][VdataPowerModeLogic] send Backlight On to Model
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][CALW] ENUM, KeOCD_int_VEHICLE_PROPULSION_TYPE, 0
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][InitAppMain] gm::ipc::FU_HMIC_DisplayCalibrationType, 14
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_DRIVER_POSITION, 0
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_GMModel, 40
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_GMTrim, 0
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_GMBrand, 3
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_DriverPositionType, 0
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_PropulsionDisplayType, 0
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][InitAppMain] FU_HMIC_Unit, 0
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::HMICHamMonitor
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][ThreadLoop] Created, HAM
+2024-10-18 11:23:50 INFO [RAMP][HMIC][HAM] HAM init process started
+2024-10-18 11:23:50 INFO [RAMP][HMIC][HAM] HAM not intialized
+2024-10-18 11:23:50 DEBUG [RAMP][HMIC][HAM] Init Success
+2024-10-18 11:23:50 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][Singleton] constructor called, class ramp::FuDynDataLogHelper
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][ThreadLoop] Created, FuDynDataLogger
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::odi::OdiDataHandler
+2024-10-18 11:23:50 VERBOSE [RAMP][HMIC][ThreadLoop] Default priority is set already
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::IpcSusdPlcHandler
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][Main] sigaction PlcWatchdog HMIC initiated
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][InitAppMain] InitVdata Start
+2024-10-18 11:23:53 INFO [RAMP][HMIC][InitVdata] InitVdata
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::IpcVDataHandler
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][IpcVDataHandler] ipcVdata_init_entered
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][IpcVDataHandler] Vdata  To Start
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][IpcVDataHandler] register_signal_callback sucesss
+2024-10-18 11:23:53 INFO [RAMP][HMIC][InitVdata] Vdata to Start
+2024-10-18 11:23:53 INFO [RAMP][HMIC][InitVdata] VDataPoolStart
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][InitAppMain] InitVdata End
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::IPCSocketConnectionMngr
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ThreadLoop] Created, TcpServer
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ThreadLoop] Created, ClientConnection
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ThreadLoop] Created, ClientConnection
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ThreadLoop] Created, ClientConnection
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ThreadLoop] Created, ClientConnection
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ThreadLoop] Created, ClientConnection
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ThreadLoop] Created, ClientConnection
+2024-10-18 11:23:53 INFO [RAMP][HMIC][Hmiapp_RTOS] IPCSocketConnectionMngr init success
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::SafetyDataManager
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ThreadLoop] Default priority is set already
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ThreadLoop] Created, IPCAsmRenderer
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::SafeOdiChannel
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][TcpServerExt] Socket is created: , 2856
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][TcpServerExt] 2. Set Socket is created: , 2856
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][TcpServerExt] 3. Bind Success:, 2856
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][SafeOdiChannel] SafeOdiChannel
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][SafeOdiChannel] init
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][SafetyDataManager] init
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][InitAppMain] SafetyDataManager init called
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][IPCAsmRenderer] init
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][IPCAsmRenderer] sig_icon received: , 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][QnxImageDisplay] show
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ThreadLoop] Error, Not Posted, IPCAsmRenderer
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][TcpClientConnection] Socket id not set
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][IPCAsmRenderer] sendMessage failed
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][SafetyDataManager] initAsm
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][InitAppMain] SafetyDataManager initAsm called
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ThreadUtil] SetCurrentThreadPriority Error: , 87
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][IPCAsmRenderer] init Post: Buffcnt , 2
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][RhmiStaticApiLoader] loadImpl loading library static RhmiWidget
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][Altia RHMI Version] 100.1.0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ModelConfig] initModel
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][REQ] event ID : , 4013,  value: , 1
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] Int, APPROACH_ANIMATION_TIMEOUT, 30
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ModelConfig] FU_HMIC_ENABLE_SUPER_SCRUISE_3D_CONTENT, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] Int, VEH_INITIATED_LOCAL_INFOTAINMENT_TIMEOUT, 600
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ModelConfig] VEH_INITIATED_LOCAL_INFOTAINMENT_TIMEOUT, 600000
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] Bool, KeOCD_int_BAJA_MODE_INDICATOR_ENABLED, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] Bool, KeOCD_int_DRIVE_MODE_OFF_ROAD_INDICATOR_ENABLED, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ModelConfig] initModel - Done
+2024-10-18 11:23:53 INFO [RAMP][HMIC][HmiApp] Model Started
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::hud::HudLogic
+2024-10-18 11:23:53 INFO [RAMP][HMIC][HudLogic] ipc::FU_HMIC_HUD_Active::, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ViewLocation] ipc_info_view, 0, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ViewLocation] view_location_unit_test_data_view, 9, 11
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] Int, KeOCD_int_DIC_TACH_MAX_VALUE, 28000
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][OdiDataHandler_Win::processOdiSubscrionRequests] fuId = , 190
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][OdiDataHandler_Win::processOdiSubscrionRequests] dataId = , 1
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][OdiDataHandler_Win::processOdiSubscrionRequests] msgType = , 5
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] ENUM, KeOCD_int_OIL_PRESSURE_DISPLAY_GAUGE_LAYOUT, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] ENUM, KeOCD_int_TRANS_FLUID_TEMP_DISPLAY_GAUGE_LAYOUT, 1
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] ENUM, KeOCD_int_OIL_TEMP_DISPLAY_GAUGE_LAYOUT, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] Bool, KeOCD_int_TACH_DYNAMIC_REDLINE_ENABLED, 1
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] ENUM, KeOCD_int_CONFIGURE_FUEL_GAGE_LABEL, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] ENUM, VEHICLE_TYPE, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] ENUM, KeOCD_int_OPTION_CONTENT_TRANSMISSION_TYPE, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] ENUM, KeOCD_int_LOW_GEAR_DISPLAY_TYPE, 0
+2024-10-18 11:23:53 DEBUG [RAMP][HMIC][BaseFunctionalLogic] FU_HMIC_Etrs_Available, 1
+2024-10-18 11:23:53 DEBUG [RAMP][HMIC][BaseFunctionalLogic] FU_HMIC_Etrs_M_or_L_Gear_Visibility, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] Bool, KeOCD_int_SHIFTER_TYPE_ETRS, 1
+2024-10-18 11:23:53 DEBUG [RAMP][HMIC][BaseFunctionalLogic] Etrs CAL Data, 1
+2024-10-18 11:23:53 DEBUG [RAMP][HMIC][BaseFunctionalLogic] Low / Manual Gear type, 0
+2024-10-18 11:23:53 INFO [RAMP][HMIC][Backlight IPC] Telltale , 0, Alert , 0, Peekin Active , 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::HmiConfig
+2024-10-18 11:23:53 INFO [RAMP][HMIC][PerformanceTimerLogic] sendPerformanceTimerStatus
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][HmiServices] Setting Language, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][HmiServices] Setting RHMI Language, 8
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5902
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:53 DEBUG [RAMP][HMIC][DriveModeHandler] updateDriveMode-current_driveMode =, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][FU_HMIC_Unit] Units_Ind_Data : , 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][FU_HMIC_Unit] Units_Ind_Data : , 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][FU_HMIC_Unit] Units_Ind_Data : , 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][FU_HMIC_Unit] Units_Ind_Data : , 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][FU_HMIC_Unit] Units_Dyn_Data : , 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5148
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5959
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5714
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5715
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5741
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5977
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5725
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][PerformanceTimerLogic] 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][PerformanceTimerLogic] 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][CALW] ENUM, LAUNCH_CONTROL_SUB_MENU_CONTENT, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][UCAlertManager] UpdateData()
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][UCAlertManager] progressbardata ::, 0
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5851
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5454
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5148
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5431
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 500546
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 500549
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 542849
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5019
+2024-10-18 11*********************
+Configuration Summary
+*********************
+Display Sets 15
+Displays 23
+*********************
+*********************
+Configuration Summary
+*********************
+Display Sets 15
+Displays 23
+*********************
+*********************
+Configuration Summary
+*********************
+Display Sets 15
+Displays 23
+*********************
+Loading Strings "D:/Repo/hmicsandbox/Data/Assets/strings/values-en-rUS/strings.xml"
+Critical Issue:  "HasCapitalLetter - URL is having capital letters D:/Repo/hmicsandbox/Data/11_IPD/GMXML/Display/ipc_display_11_IPD.gmxml,"
+Critical Issue:  "Duplicate Variable - id- var_native_native_zorder_ipc_app"
+Critical Issue:  "Duplicate Variable - id- var_native_native_zorder_safety_icon"
+Critical Issue:  "Duplicate Variable - id- var_native_native_zorder_ipc_app"
+Critical Issue:  "Duplicate Variable - id- var_native_native_zorder_safety_icon"
+:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5931
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5117
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5118
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5291
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5273
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5276
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, ipc_night_vision_detection_screen
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5242
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5489
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5075
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5077
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5076
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5078
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5080
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5079
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5081
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5082
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5487
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5446
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5447
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5448
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 6664
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5241
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][ScreenBase] Error: Duplicate ScreenBase ID, 5243
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][FactoryFunctionalLogic] Unique_FunctionalLogic
+2024-10-18 11:23:53 INFO [RAMP][HMIC][InterfaceInit] HmiApp Instance Created
+2024-10-18 11:23:53 VERBOSE [RAMP][HMIC][Callback] setExitUponErrorCallback
+2024-10-18 11:23:54 VERBOSE [RAMP][HMIC][VDataPool] Signal, 3862, Signal_name, SPMP_SysPwrModeAuth, Value, 2
+2024-10-18 11:23:54 VERBOSE [RAMP][HMIC][VdataSYS] Vdata_power_mode_Triggred, 2
+2024-10-18 11:23:54 VERBOSE [RAMP][HMIC][VdataSYS] VDATA_SYS_STATE_RUN_Triggred_
+2024-10-18 11:23:54 VERBOSE [RAMP][HMIC][VdataPowerModeLogic] evG_Susd_PowerMode_Run
+2024-10-18 11:23:54 VERBOSE [RAMP][HMIC][VdataPowerModeLogic] send Backlight On to Model
+2024-10-18 11:23:54 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] OpenGLInitCompleteCallback
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::EarlyHmiHandler
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][EarlyHMI] Init
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Default priority is set already
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][EarlyHMI] Waiting for FileSystem Ready...
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][EarlyHMI] FileSystem is available now 
+2024-10-18 11:23:56 INFO [RAMP][HMIC][HudLogic] initModel, 1045, -1
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::SUSDController
+2024-10-18 11:23:56 INFO [RAMP][HMIC][SUSD] ENTERED INTO INIT 
+
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][SusdSim] mCurrentValue = , 7
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][SusdSim] mPreviousValue = , 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][SusdSim] mCurrentValue = , 65535
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][SusdSim] mPreviousValue = , 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][SusdSim] mCurrentValue = , 5
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][SusdSim] mPreviousValue = , 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][SusdSim] mCurrentValue = , -1
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][SusdSim] mPreviousValue = , 0
+2024-10-18 11:23:56 INFO [RAMP][HMIC][] HmiInitStart
+2024-10-18 11:23:56 INFO [RAMP][HMIC][] InterfaceInit_Called
+2024-10-18 11:23:56 INFO [RAMP][HMIC][HAM] Already initialized..
+2024-10-18 11:23:56 INFO [RAMP][HMIC][InitVdata] InitVdata
+2024-10-18 11:23:56 INFO [RAMP][HMIC][Hmiapp_RTOS] IPCSocketConnectionMngr init success
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Created, RhmiManager
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Created, HandShake
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Created, TransiantAsset
+2024-10-18 11:23:56 INFO [RAMP][HMIC][TcpSessionHandler] init
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiAppInterface] RhmiNotifyAlertActivation::, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Default priority is set already
+2024-10-18 11:23:56 DEBUG [RAMP][HMIC][RhmiAppInterface] RhmiHMICZoneNotifyToCSM
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][TcpClient] Socket is created, 2492
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiAppInterface] screenchangecallback::, 0,EMPTY,0001
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Error, Not Posted, FsaTx
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiAppInterface] RhmiNotifyInfoScreenChange::, 0
+2024-10-18 11:23:56 DEBUG [RAMP][HMIC][RhmiAppInterface] RhmiHMICZoneNotifyToCSM
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiAppInterface] screenchangecallback::, 0,EMPTY,EMPTY
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Error, Not Posted, FsaTx
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiAppInterface] RhmiNotifyInfotainmentScreenChange::, 0
+2024-10-18 11:23:56 DEBUG [RAMP][HMIC][RhmiAppInterface] RhmiHMICZoneNotifyToCSM
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiAppInterface] screenchangecallback::, 0,EMPTY,EMPTY
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Error, Not Posted, FsaTx
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiAppInterface] RhmiNotifyInfoScreenChange::, 1019
+2024-10-18 11:23:56 DEBUG [RAMP][HMIC][RhmiAppInterface] RhmiHMICZoneNotifyToCSM
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiAppInterface] screenchangecallback::, EMPTY,EMPTY,EMPTY
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Error, Not Posted, FsaTx
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiAppInterface] RhmiNotifyInfotainmentScreenChange::, 1020
+2024-10-18 11:23:56 DEBUG [RAMP][HMIC][RhmiAppInterface] RhmiHMICZoneNotifyToCSM
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiAppInterface] screenchangecallback::, EMPTY,EMPTY,EMPTY
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Error, Not Posted, FsaTx
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiAppInterface] init() done !!!
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiManager] RhmiManager::init() done !!!
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][UCAppInterface] FU_HMIC_UltraCruise_Enable:, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][UCAppInterface] enableUltracruise:mEnabled, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::ipc::IpcAppControlChannel
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][IpcAppControlChannel] IpcAppControlChannel
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Created, AppChannel
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Default priority is set already
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Default priority is set already
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Default priority is set already
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][SafetyDataManager] Init called already..
+2024-10-18 11:23:56 INFO [RAMP][HMIC][Hmiapp] SafetyDataManager init called
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][Singleton] constructor called, class gm::BrightnessMsgHandler
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Created, Brightness Channel
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][IncHandler] vcu_inc_open failed attempt: ch_id: errno: , 1, 17, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][IncHandler] vcu_inc_open failed attempt: ch_id: errno: , 2, 17, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][IncHandler] vcu_inc_open failed attempt: ch_id: errno: , 3, 17, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][IncHandler] vcu_inc_open failed attempt: ch_id: errno: , 4, 17, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][IncHandler] vcu_inc_open failed attempt: ch_id: errno: , 5, 17, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][BrightnessMsgHandler] Open, fail, 17, Brightness Channel
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][VdataPowerModeLogic] evG_Susd_PowerMode_Run
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][VdataPowerModeLogic] send Backlight On to Model
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][MMDMA] Check Started
+2024-10-1'showmem' is not recognized as an internal or external command,
+operable program or batch file.
+8 11:23:56 VERBOSE [RAMP][HMIC][ThreadLoop] Default priority is set already
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][MMDMA] mm_value extraction failed: 
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][MMDMA] mmvalread not equal value
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ScreenCallbacks] MessageCallback : , [RHMIAPI] ERROR: LabelWidget not found, Failed to find setPagingInterval
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][Callback] Completed
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][Singleton] constructor called, class ramp::PixMap
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setData] 1109, 17
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5148
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_battery_icon, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_battery_icon, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_abs, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_parking_brake_service, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_parking_brake_service, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_brake_export, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_coolant_temp, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_coolant_temp, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_park_brake_us, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_park_brake_us, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setStateSelector] header_park_brake_us, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_aebs, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_oil_pressure_low, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_airbags, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_airbags, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_engineicon, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_engineicon, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_esc_engaged, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_esc_engaged, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_esc_off, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_seat_belt_red, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_seat_belt_red, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_high_beam, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_turn_signal_left, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_turn_signal_right, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_tire_pressure_monitoring_system, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_tire_pressure_monitoring_system, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_telltale_height_control_flash, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_telltale_height_control_flash, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setStateSelector] ipc_telltale_height_control_flash, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_brake_us, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_diesel_preheat, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_telltale_height_control, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setStateSelector] ipc_telltale_height_control, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_propulsion_system_failure_icon, Invisible
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][setStateSelector] header_propulsion_system_failure_icon, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5148
+2024-10-1Critical Issue:  "Duplicate Variable - id- var_native_native_zorder_ipc_app"
+Critical Issue:  "Duplicate Variable - id- var_native_native_zorder_safety_icon"
+Critical Issue:  "Duplicate Variable - id- var_native_native_zorder_ipc_app"
+Critical Issue:  "Duplicate Variable - id- var_native_native_zorder_safety_icon"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_seat_belt_red.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_traction_control.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_traction.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_tire_pressure_low.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_airbags.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_aux_coolant_temperature.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_aux_battery_icon.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_aux_oil_icon.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_engineicon.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_propulsion_system_failure_red_suv.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_brake_us.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_brake_export.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_park_brake_us.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_parking_brake_service.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_telltale_aebs.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_abs.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_diesel_preheat.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_tt_turnsignalleft.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_tt_turn_signal_right.png"
+Critical Issue:  "Resource not found, File doesn't exist - 11/img_high_beam.png"
+8 11:23:56 VERBOSE [RAMP][HMIC][setStateSelector] header_park_brake_us, 1
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5148
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5148
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5148
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAnimationCompleted, 5148
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ShowScreen, 5148, 1] 133, ms
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: ProgressBarWidget not found, Failed to find ProgressBarWidget "5622_img_ultra_cruise_long_auto_resume_progressbar" in any visible screen
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][EarlyHMI] setFilesystemReady path found
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][HmiServices] resumeSystem
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][REQ] event ID : , 4010,  value: , 1
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][sendBacklightActionValue] action_id = , 24705, action_value =, 1
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ODI] ACT (247,5) = 1
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ODI] Received ActionMessage
+2024-10-18 11:23:56 INFO [RAMP][HMIC][HmiServices] setTheme Applied : , T1XC
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] setThemeIdAndType, 34, 0
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] The value of the root_path is: , ./Theme_Id/
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] The Current ThemePath , ./Theme_Id/0x0022/HMIC/Images_2d_3d/
+2024-10-18 11:23:56 ERROR [RAMP][HMIC][ThemeHandler] Resetting applied themes failed
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] file not found, ./Theme_Id/0x0022/HMIC/Images_2d_3d/img_ar_camera_view_ice_bg_54.png
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] file not found, ./Theme_Id/0x0022/HMIC/Images_2d_3d/img_ar_camera_view_bev_bg_54.png
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Full Theme Folder Path = , ./Theme_Id/0x0022/HMIC/Images_2d_3d/img_main_view_bg.png, result, 0
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] file not found, ./Theme_Id/0x0022/HMIC/Images_2d_3d/img_main_view_bg_54.png
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Full Theme Folder Path = , ./Theme_Id/0x0022/HMIC/Images_2d_3d/img_map_view_bg.png, result, 0
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] file not found, ./Theme_Id/0x0022/HMIC/Images_2d_3d/img_map_view_bg_54.png
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] file not found, ./Theme_Id/0x0022/HMIC/Images_2d_3d/img_night_vision_bg.png
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] file not found, ./Theme_Id/0x0022/HMIC/Images_2d_3d/img_night_vision_bg_54.png
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] file not found, ./Theme_Id/0x0022/HMIC/Images_2d_3d/img_drive_mode_sport.png
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] skincolor text File is opened, ./Theme_Id/0x0022/HMIC/skincolor.txt
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Skin, skin_primay_light,0x7294C2
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Skin, skin_caution_alert_amber,0xFF7600
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Skin, skin_caution_alert_red,0xFF0800
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Skin, skin_icon_green,0x20B74A
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Skin, skin_icon_neutral_primary,0xFFFFFF
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Skin, skin_icon_primary_accent_dark,0xD7DDEB
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Skin, skin_icon_primary_dark,0x5A5A5A 
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Fontcolor text File is opened, ./Theme_Id/0x0022/HMIC/fontcolor.txt
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Font, skin_font_primary,0x0036FF
+2024-10-18 11:23:56 INFO [RAMP][HMIframe NO:  -1
+frame NO:  1
+frame NO:  0
+frame NO:  -1
+frame NO:  -1
+C][ThemeHandler] Font, skin_font_amber,0xFF7600
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Font, skin_font_primary_light,0x7294C2
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Font, skin_font_primary_dark,0x5A5A5A
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Font, skin_font_primary_accent_dark,0xD7DDEB
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Font, skin_font_neutral_primary,0xFFFFFF 
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Font, skin_font_red,0xFF0800
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Font, skin_font_green,0x00FF00
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Font, skin_font_primary_red,0xFF1A1F
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Font, skin_font_dark_primary,0xAFB4BF
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Font, skin_font_accent_dark,0xD0D0D2
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Font, skin_font_primary_accent,0xE1E1E1
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Applied Theme Activation is, 1
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ThemesSendID] AppID, 0, Acknowledgemnt, 1
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] sendThemeAck, 1
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Theme Acknownledgement to Andriod, 1
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] ResetAndroidChgEvent
+2024-10-18 11:23:56 INFO [RAMP][HMIC][ThemeHandler] Reset Theme Acknownledgement to Andriod
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][VdataPowerModeLogic] evG_Susd_PowerMode_Run
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][VdataPowerModeLogic] send Backlight On to Model
+2024-10-18 11:23:56 INFO [RAMP][HMIC][SUSD] susd current system:, 434, old:, 0
+2024-10-18 11:23:56 INFO [RAMP][HMIC][SUSD] susd_system_current_state_type, current:, 434, old:, 0
+2024-10-18 11:23:56 INFO [RAMP][HMIC][SUSD] SUSD Process system state new = , 434,  old = , 0
+2024-10-18 11:23:56 INFO [RAMP][HMIC][SUSD] susd current Plc:, 233251840, old:, 0
+2024-10-18 11:23:56 INFO [RAMP][HMIC][SUSD] susd_plc_current_state_type, current:, 233251840, old:, 0
+2024-10-18 11:23:56 INFO [RAMP][HMIC][SUSDController.cpp] IPC_OFF_PEEKIN_INACTIVE, 0
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: ImageWidget not found, Failed to find "img_ar_camera_view_bg" ImageWidget in any visible screen
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][REQ] event ID : , 4010,  value: , 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][sendBacklightActionValue] action_id = , 24705, action_value =, 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ODI] ACT (247,5) = 0
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][ODI] Received ActionMessage
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][REQ] event ID : , 4005,  value: , 6
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiAppInterface] rhmiHandleViewCB, vcs11_single_c234_v1, VIEW_CHANGE#6
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RhmiServer] FSA_NotifyMethods::CallbackMethod_request_response, 1
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][REQ] event ID : , 4006,  value: , 1
+2024-10-18 11:23:56 DEBUG [RAMP][HMIC][RhmiServer] ServiceId,func_ID, 1007, 709
+2024-10-18 11:23:56 DEBUG [RAMP][HMIC][RhmiServer] op_Type,client_Handle, 674, 1
+2024-10-18 11:23:56 ERROR [RAMP][HMIC][RhmiServer] sendDataToServer:: Failed.. No connection
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [resetAppliedThemes] Failed, -1
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: ImageWidget not found, Failed to find "img_ar_camera_view_bg_54" ImageWidget in any visible screen
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [resetAppliedThemes] Failed, -1
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: ImageWidget not found, Failed to find "img_main_view_bg" ImageWidget in any visible screen
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [resetAppliedThemes] Failed, -1
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: ImageWidget not found, Failed to find "img_main_view_bg_54" ImageWidget in any visible screen
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [reseResourceManager: Empty Font ID
+Loaded Font "GMSUIChevyCCSTGlobal-Regular" from "D:/Repo/hmicsandbox/Data/Assets/fonts/GMSUIChevyCCSTGlobal-Regular.ttf"
+tAppliedThemes] Failed, -1
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: ImageWidget not found, Failed to find "img_map_view_bg" ImageWidget in any visible screen
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [resetAppliedThemes] Failed, -1
+2024-10-18 11:23:56 INFO [RAMP][HMIC][SUSD] susd current system:, 0, old:, 434
+2024-10-18 11:23:56 INFO [RAMP][HMIC][SUSD] susd current Plc:, 0, old:, 233251840
+2024-10-18 11:23:56 INFO [RAMP][HMIC][SUSD] susd_plc_current_state_type, current:, 0, old:, 233251840
+2024-10-18 11:23:56 INFO [RAMP][HMIC][SUSDController.cpp] IPC_OFF_PEEKIN_INACTIVE, 0
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: ImageWidget not found, Failed to find "img_map_view_bg_54" ImageWidget in any visible screen
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [resetAppliedThemes] Failed, -1
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: ImageWidget not found, Failed to find "img_night_vision_bg" ImageWidget in any visible screen
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [resetAppliedThemes] Failed, -1
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: ImageWidget not found, Failed to find "img_night_vision_bg_54" ImageWidget in any visible screen
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [resetAppliedThemes] Failed, -1
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: ImageWidget not found, Failed to find "ipc_drive_mode_sport" ImageWidget in any visible screen
+2024-10-18 11:23:56 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [resetAppliedThemes] Failed, -1
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 6023
+2024-10-18 11:23:56 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5002
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_all_drive, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_all_drive, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_all_drive, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_fuel_level_low, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_fuel_level_low, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_fuel_level_low, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_crawl, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_drive_mode_hold, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_rear_fog_lamp, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_drive_mode_off_road, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_pedestrian_alert_amber, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_state_of_charge_propulsion_battery_na, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] header_state_of_charge_propulsion_battery_na, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_electric_motor_failure, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_telltale_auto_hold_active, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_drive_mode_one_pedal, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_drive_mode_snow, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_door_right_small, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_door_left_small_front, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_front_access_car, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_drive_mode_baja, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_power_take_off, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_personal_white, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_drive_mode_ev, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_automatic_high_beam, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_front_fog_lamp, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_door_left_small, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_lights_on, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_extrenal_cord_connected, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_gear_shift_indicator_down, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_all_drive_white, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_all_drive_white, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_all_drive_white, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_limited_performance_mode_icon, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_drive_mode_tow_haul, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_advanced_forward_lighting_icon, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] lbl_Enhanced_Shift_gear_green, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setLabelText] lbl_Enhanced_Shift_gear_green, 
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] transfer_case_position_eawd, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] transfer_case_position_eawd, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_drive_mode_sport, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_door_mid_gate, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_gear_shift_indicator, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_state_of_charge_propulsion_battery, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] header_state_of_charge_propulsion_battery, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_automatic_high_beam_active, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_trailer_sway, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_security, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_security, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_drive_mode_tour, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_telltale_auto_hold_enabled, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] transfer_case_position_white, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] transfer_case_position_white, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] transfer_case_position_white, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_custom_drive_mode, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_animal_warning, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_drowsy_distracted_driving, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_drowsy_distracted_driving, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_door_right_small_front, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_pas_pal_gear, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_electric_motor_green, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] header_electric_motor_green, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_drive_mode_charge, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_diesel_exhast_fluid, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_diesel_exhast_fluid, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_door_front_access_open, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_ptm_telltale, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_ptm_telltale, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] transfer_casResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+Loaded Font "GMSUIChevyCCSTGlobal-Light" from "D:/Repo/hmicsandbox/Data/Assets/fonts/GMSUIChevyCCSTGlobal-Light.ttf"
+e_position, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] transfer_case_position, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] transfer_case_position, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_drive_mode_eco, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_drive_mode_track, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_propulsion_battery_failure_icon, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_door_rear_access_open, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_traction_control_off, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_drive_mode_mountain, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5002
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5002
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAnimationCompleted, 5002
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ShowScreen, 5002, 1] 343, ms
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 70000
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ShowScreen, 70000, 1] 23, ms
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 70001
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5614
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:57 INFO [RAMP][HMIC][ipc_brightness_control_screen] ipc_brightness_view, Brightness, 100
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5614
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAnimationCompleted, 5614
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ShowScreen, 5614, 1] 12, ms
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setData] 1109, 17
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setData] 1110, 18
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 6620
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ShowScreen, 6620, 1] 48, ms
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setData] 1135, 1
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [showScreen Animation Failed] 6023, -1
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [showScreen Animation Failed] 6023, -1
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found for alpha, Failed to find "header_state_of_charge_propulsion_battery_na" widget in any visible screen
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setWidgetAlpha] Failed, -1
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 6040
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 6039
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_42_dml_num_active_gear_l, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_42_dml_num_active_gear_l, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_42_default_gear_m, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_42_default_gear_m, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_42_requested_gear_l_dyn, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_42_requested_gear_l_dyn, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_42_requested_gear_d, Visible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_42_requested_gear_d, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_42_requested_gear_r, Visible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_42_requested_gear_r, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_42_dml_num_active_gear_d, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_42_dml_num_active_gear_d, 0
+2024-10-18 11ResourceManager: Empty Font ID
+:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_42_requested_gear_p, Visible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_42_requested_gear_p, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_42_requested_gear_l, Visible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_42_requested_gear_l, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_42_requested_gear_n, Visible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_42_requested_gear_n, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_42_num_gear_m, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_42_num_gear_m, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_42_requested_gear_m_dyn, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_42_requested_gear_m_dyn, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 6039
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAnimationCompleted, 6039
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ShowScreen, 6039, 1] 61, ms
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 6011
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5266
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5122
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5362
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] dyn_ipd_compass, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] dyn_compass, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] dyn_compass, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5266
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] dyn_compass, Visible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5266
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAnimationCompleted, 5266
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ShowScreen, 5266, 1] 18, ms
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 4648, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] 4648, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 4649, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] 4649, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5083, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] 5083, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5081, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] 5081, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5082, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] 5082, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5079, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] 5079, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5191, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5194, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5080, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] 5080, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5189, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 4650, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] 4650, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5078, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] 5078, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5195, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5122
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 4648, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5080, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 4649, Invisible
+2024-10-18 11:23:5ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+Loaded Font "GMSUIGlobal-Regular" from "D:/Repo/hmicsandbox/Data/Assets/fonts/GMSUIGlobal-Regular.ttf"
+7 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5079, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 4650, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5078, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5081, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5082, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5083, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 4648, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 4649, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5083, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5081, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5082, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5079, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5191, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5194, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5080, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5189, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 4650, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5078, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 5195, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5122
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAnimationCompleted, 5122
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ShowScreen, 5122, 1] 38, ms
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setLabelText] dyn_gauge_temp_units,  Â°C
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] dyn_telltale_temp_units, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setLabelText] dyn_telltale_temp, 
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5362
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAnimationCompleted, 5362
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ShowScreen, 5362, 1] 41, ms
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][HideScreen] 6620
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] CallbackFunction, 6, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setData] 1030, 5
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ViewLocation] ipc_info_view, 0, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ViewLocation] view_location_unit_test_data_view, 9, 11
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setData] 1039, 1
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setData] 1100, 1
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5232
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ShowScreen, 5232, 1] 23, ms
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] iResourceManager: Empty Font ID
+Loaded Font "GMSUIGlobalCond-Regular" from "D:/Repo/hmicsandbox/Data/Assets/fonts/GMSUIGlobalCond-Regular.ttf"
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+pc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][DeepScreenLoader] ipc_deepscreen_type : 11_IPD
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ViewLocation] ipc_info_view, 649, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ViewLocation] view_location_unit_test_data_view, 30, 89
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 6016
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5287
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 500445
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5929
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5930
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5490
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5258
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_c1yc2_dualgauge_etrs, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_c1yc2_dualgauge_etrs, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_prndl_etrs_m, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_prndl_etrs_m, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_prndl_selected, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_prndl_selected, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_prndl_selected_m, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_prndl_selected_m, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5922
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_c1yc2_dualgauge_etrs, 255
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_prndl_etrs_m, 255
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_prndl_selected, 255
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_prndl_selected_m, 255
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5922
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAnimationCompleted, 5922
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ShowScreen, 5922, 1] 30, ms
+2024-10-18 11:23:57 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] dyn_fdi_time, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setLabelText] dyn_fdi_time, 
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_lane_keep_asist_domestic, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_lane_keep_asist_domestic, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_lane_keep_asist_domestic, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_fdi_icon, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_lane_adaptive_cruise_control, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_lane_adaptive_cruise_control, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_telltale_hill_descent, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_telltale_hill_descent, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] ipc_telltale_hill_descent, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 9209, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] 9209, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_holca_telltale, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_holca_telltale, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_holca_telltale, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_warning_speed_telltale, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] dyn_lbl_speed_limit_units, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] dyn_lbl_speed_limit_units, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] lbl_cruise_set_speed_green, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setLabelText] lbl_cruise_set_speed_green, 
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] ipc_telltale_auto_stop, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] lbl_cruise_set_speed_blue, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setLabelText] lbl_cruise_set_speed_blue, 
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_wow_mode_telltale, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] lbl_cruise_set_speed_White, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setLabelText] lbl_cruise_set_speed_White, 
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_tt_ev_mode, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 4661, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] 4661, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] header_lane_centering, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] header_lane_centering, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_lane_departure, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_lane_departure, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_lane_departure, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_normal_cruise_control, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_normal_cruise_control, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_tt_hev_mode, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_route_speed_adaption_small, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] lbl_speed_limit_white, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setLabelText] lbl_speed_limit_white, 
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_lane_keep, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_lane_keep, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_lane_keep, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] 4314, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setLabelText] 4314, 
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_vehicle_ahead, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setWidgetAlpha] img_vehicle_ahead, Invisible
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setStateSelector] img_vehicle_ahead, 0
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 500449
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setLabelText] lbl_speed_limit_white, --
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setLabelText] 4314, --
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][setLabelText] dyn_fdi_time, -.-
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 500449
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][BindabResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+Loaded Font "GMSUIChevyCCSTGlobal-Medium" from "D:/Repo/hmicsandbox/Data/Assets/fonts/GMSUIChevyCCSTGlobal-Medium.ttf"
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Implicitly defined onFoo properties in Connections are deprecated. Use this syntax instead: function onFoo(<arguments>) { ... }
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onChevyFuelSelect"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onChevyCoolantSelect"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onSetRegen"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onSetEngen"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onEnginePowerValue"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onRegenPower"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onTransmissionTempSelect"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onOilPressureSelect"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onTachoRedZone"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onCoolantTempColor"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onCoolantTempValue"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onTachoCriticalIndicator"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onTachoNeedleRotation"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onOilTempColor"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onOilTempValue"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onTransTempColor"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onTransTempValue"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onSpeedoConversion"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onSpeedoNeedleRotation"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onFuelLevelColor"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Cannot assign to non-existent property "onFuelLevelValue"
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:22: ReferenceError: my24_ice_c1yc_t_gauge_11ipd_dual is not defined
+qrc:/my24_ice_c1yc_t_gauge_11ipd_dual.qml:20:5: QML Connections: Implicitly defined onFoo properties in Connections are deprecated. Use this syntax instead: function onFoo(<arguments>) { ... }
+frame NO:  0
+frame NO:  1
+frame NO:  0
+frame NO:  0
+frame NO:  0
+frame NO:  0
+frame NO:  0
+frame NO:  0
+frame NO:  0
+frame NO:  0
+ResourceManager: Empty Font ID
+Loaded Font "GMSUIGMCGlobal-Medium" from "D:/Repo/hmicsandbox/Data/Assets/fonts/GMSUIGMCGlobal-Medium.ttf"
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+leScreenLogic] onScreenShowAnimationCompleted, 500449
+2024-10-18 11:23:57 VERBOSE [RAMP][HMIC][ShowScreen, 500449, 1] 110, ms
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][FrameNumber] TransmissionTempColor, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][FrameNumber] SpeedoConversion, 1
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][FrameNumber] FuelLevelColor, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][FrameNumber] FuelLevelValue, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setLabelText] oil_pressure_high, 550
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setWidgetAlpha] speedometer_units, Visible
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setStateSelector] speedometer_units, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setStateSelector] img_t_guage_transmission_fluid_temp_high, 1
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setStateSelector] img_t_guage_fuel_high, 1
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setStateSelector] img_t_guage_transmission_fluid_temp_low, 1
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][FrameNumber] TachoNeedleRotation, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][FrameNumber] CoolantTempColor, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][FrameNumber] CoolantTempValue, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][FrameNumber] SetTachRedZone, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setStateSelector] img_t_guage_fuel_icon, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setStateSelector] img_t_guage_fuel_low, 1
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][FrameNumber] TachoCriticalIndicator, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setStateSelector] img_t_guage_coolant_temp_high, 1
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setLabelText] oil_pressure_low, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setStateSelector] img_t_guage_coolant_temp_low, 1
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setWidgetAlpha] speedometer_value, Visible
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setLabelText] speedometer_value, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][FrameNumber] OilPressureColor, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5921
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5921
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAnimationCompleted, 5921
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][ScreenBase] sweep, TachoNeedleRotation, 0, 1000, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][ScreenBase] sweep, CoolantTempValue, 0, 1000, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][ScreenBase] sweep, FuelLevelValue, 0, 1000, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][ScreenBase] sweep, SpeedoNeedleRotation, 0, 1000, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][ScreenBase] sweep, TransmissionTempValue, 0, 1000, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][ScreenBase] sweep, OilPressureValue, 0, 1000, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][ShowScreen, 5921, 1] 594, ms
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][ShowScreen, 5053, 1] 34, ms
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setWidgetAlpha] dyn_vehiclehealth_13_1_FuelRange_Low, Invisible
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setStateSelector] dyn_vehiclehealth_13_1_FuelRange_Low, 1
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setWidgetAlpha] fuel_icon, Visible
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setStateSelector] fuel_icon, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setWidgetAlpha] miles, Visible
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setLabelText] miles, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setWidgetAlpha] miles_units, Visible
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setStateSelector] miles_units, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5289
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5289
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAnimationCompleted, 5289
+2024-10-18 11:23:58 VERBResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+ResourceManager: Empty Font ID
+frame NO:  10
+frame NO:  11
+frame NO:  11
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:15: ReferenceError: coolant_needle_item is not defined
+frame NO:  11
+frame NO:  11
+frame NO:  11
+frame NO:  26
+frame NO:  27
+frame NO:  27
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:15: ReferenceError: coolant_needle_item is not defined
+frame NO:  27
+frame NO:  27
+frame NO:  27
+frame NO:  75
+frame NO:  75
+frame NO:  75
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:15: ReferenceError: coolant_needle_item is not defined
+frame NO:  76
+frame NO:  76
+frame NO:  76
+frame NO:  93
+frame NO:  93
+frame NO:  93
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  93
+frame NO:  93
+frame NO:  93
+frame NO:  100
+frame NO:  100
+frame NO:  100
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  100
+frame NO:  100
+frame NO:  100
+frame NO:  106
+frame NO:  106
+frame NO:  106
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  106
+frame NO:  106
+frame NO:  106
+frame NO:  114
+frame NO:  114
+frame NO:  114
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  114
+frame NO:  114
+frame NO:  114
+frame NO:  124
+frame NO:  124
+frame NO:  124
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  124
+frame NO:  124
+frame NO:  124
+OSE [RAMP][HMIC][ShowScreen, 5289, 1] 11, ms
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setLabelText] dyn_odometer, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setStateSelector] lbl_odometer_units, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5258
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5258
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAnimationCompleted, 5258
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][ShowScreen, 5258, 1] 22, ms
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5723
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5723
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setLabelText] dyn_hours, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setStateSelector] dyn_82_0_DayOfTheWeek, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setLabelText] vehiclehealth_82_0_MonthandDay_ipc,  
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setLabelText] dyn_minutes, 00
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setLabelText] dyn_temperature,  Â°C
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAuxiliary, 5723
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][BindableScreenLogic] onScreenShowAnimationCompleted, 5723
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][ShowScreen, 5723, 1] 19, ms
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setData] 1016, 5723
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RhmiAppInterface] RhmiNotifyInfoScreenChange::, 5723
+2024-10-18 11:23:58 DEBUG [RAMP][HMIC][RhmiAppInterface] RhmiHMICZoneNotifyToCSM
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RhmiAppInterface] screenchangecallback::, 5723,EMPTY,EMPTY
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found setStateSelector, Failed to find widget "header_state_of_charge_propulsion_battery_na" in visible screens
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RhmiServer] FSA_NotifyMethods::CallbackMethod_request_response, 2
+2024-10-18 11:23:58 DEBUG [RAMP][HMIC][RhmiServer] ServiceId,func_ID, 1007, 709
+2024-10-18 11:23:58 DEBUG [RAMP][HMIC][RhmiServer] op_Type,client_Handle, 674, 2
+2024-10-18 11:23:58 ERROR [RAMP][HMIC][RhmiServer] sendDataToServer:: Failed.. No connection
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setStateSelector] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found for alpha, Failed to find "transfer_case_position_eawd" widget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setWidgetAlpha] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found setStateSelector, Failed to find widget "transfer_case_position_eawd" in visible screens
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][GetViewLayoutSpecificScreen] 5460
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] CallbackFunction, 5, 0
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][ShowScreen, 5460, 1] 47, ms
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setStateSelector] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found for alpha, Failed to find "ipc_drive_mode_charge" widget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setWidgetAlpha] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found for alpha, Failed to find "img_ptm_telltale" widget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setWidgetAlpha] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found setStateSelector, Failed to find widget "img_ptm_telltale" in visible screens
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setStateSelector] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [showScreen Animation Failed] 70001, -1
+2024-10-18 11:frame NO:  125
+frame NO:  125
+frame NO:  125
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  125
+frame NO:  125
+frame NO:  125
+frame NO:  130
+frame NO:  130
+frame NO:  130
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  130
+frame NO:  130
+frame NO:  130
+frame NO:  144
+frame NO:  144
+frame NO:  144
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  144
+frame NO:  144
+frame NO:  144
+frame NO:  158
+frame NO:  159
+frame NO:  159
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  159
+frame NO:  159
+frame NO:  159
+frame NO:  166
+frame NO:  166
+frame NO:  166
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  166
+frame NO:  166
+frame NO:  166
+frame NO:  180
+frame NO:  180
+frame NO:  181
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  181
+frame NO:  181
+frame NO:  181
+frame NO:  188
+frame NO:  188
+frame NO:  188
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  188
+frame NO:  188
+frame NO:  188
+frame NO:  202
+frame NO:  202
+frame NO:  202
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  202
+frame NO:  202
+frame NO:  202
+frame NO:  216
+frame NO:  216
+frame NO:  216
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  216
+frame NO:  216
+frame NO:  216
+frame NO:  222
+frame NO:  223
+frame NO:  223
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  223
+frame NO:  223
+frame NO:  223
+frame NO:  230
+frame NO:  230
+frame NO:  230
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  230
+frame NO:  230
+frame NO:  230
+frame NO:  244
+frame NO:  244
+frame NO:  244
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  244
+frame NO:  244
+frame NO:  244
+frame NO:  251
+frame NO:  251
+frame NO:  251
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  251
+frame NO:  251
+frame NO:  251
+frame NO:  265
+frame NO:  265
+frame NO:  265
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  265
+frame NO:  265
+frame NO:  265
+frame NO:  272
+frame NO:  272
+frame NO:  272
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  272
+frame NO:  272
+frame NO:  272
+frame NO:  288
+frame NO:  288
+frame NO:  288
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  288
+frame NO:  288
+frame NO:  288
+23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [showScreen Animation Failed] 70001, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [showScreen Animation Failed] 6040, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [showScreen Animation Failed] 6040, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [showScreen Animation Failed] 6011, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [showScreen Animation Failed] 6011, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found for alpha, Failed to find "dyn_compass" widget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setWidgetAlpha] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found setStateSelector, Failed to find widget "dyn_compass" in visible screens
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setStateSelector] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found for alpha, Failed to find "dyn_compass" widget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setWidgetAlpha] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [showScreen Animation Failed] 6016, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [showScreen Animation Failed] 6016, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found for alpha, Failed to find "dyn_fdi_time" widget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setWidgetAlpha] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: LabelWidget not found, Failed to find "dyn_fdi_time" LabelWidget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setLabelText] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found for alpha, Failed to find "img_fdi_icon" widget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setWidgetAlpha] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found for alpha, Failed to find "img_wow_mode_telltale" widget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setWidgetAlpha] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found for alpha, Failed to find "img_tt_ev_mode" widget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setWidgetAlpha] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found for alpha, Failed to find "img_tt_hev_mode" widget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setWidgetAlpha] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found for alpha, Failed to find "img_lane_keep" widget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setWidgetAlpha] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found for alpha, Failed to find "img_lane_keep" widget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setWidgetAlpha] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: Widget not found setStateSelector, Failed to find widget "img_lane_keep" in visible screens
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setStateSelector] Failed, -1
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] ERROR: LabelWidget not found, Failed to find "dyn_fdi_time" LabelWidget in any visible screen
+2024-10-18 11:23:58 INFO [RAMP][HMIC][RHMI] Message, [RHMIAPI] [setLabelText] Failed, -1
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setData] 1109, 19
+2024-10-18 11:23:58 VERBOSE [RAMP][HMIC][setData] 1110, 20
+2024-10-18 11:23:58 INFO [RAMP]frame NO:  293
+frame NO:  293
+frame NO:  293
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  293
+frame NO:  293
+frame NO:  293
+frame NO:  307
+frame NO:  308
+frame NO:  308
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  308
+frame NO:  308
+frame NO:  308
+frame NO:  322
+frame NO:  322
+frame NO:  322
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  322
+frame NO:  322
+frame NO:  322
+frame NO:  328
+frame NO:  328
+frame NO:  328
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  328
+frame NO:  328
+frame NO:  328
+frame NO:  342
+frame NO:  342
+frame NO:  342
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  342
+frame NO:  342
+frame NO:  342
+frame NO:  348
+frame NO:  349
+frame NO:  349
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  349
+frame NO:  349
+frame NO:  349
+frame NO:  362
+frame NO:  363
+frame NO:  363
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  363
+frame NO:  363
+frame NO:  363
+frame NO:  377
+frame NO:  377
+frame NO:  377
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  377
+frame NO:  378
+frame NO:  378
+frame NO:  384
+frame NO:  384
+frame NO:  384
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  384
+frame NO:  384
+frame NO:  384
+frame NO:  399
+frame NO:  399
+frame NO:  399
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  399
+frame NO:  399
+frame NO:  399
+frame NO:  406
+frame NO:  406
+frame NO:  406
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  406
+frame NO:  406
+frame NO:  406
+frame NO:  422
+frame NO:  422
+frame NO:  422
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  422
+frame NO:  422
+frame NO:  422
+frame NO:  428
+frame NO:  428
+frame NO:  428
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  428
+frame NO:  428
+frame NO:  428
+frame NO:  588
+frame NO:  588
+frame NO:  589
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  589
+frame NO:  589
+frame NO:  589
+frame NO:  589
+frame NO:  589
+frame NO:  595
+frame NO:  595
+frame NO:  595
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  595
+frame NO:  596
+frame NO:  596
+frame NO:  612
+frame NO:  612
+frame NO:  612
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  613
+frame NO:  613
+frame NO:  613
+frame NO:  617
+frame NO:  617
+frame NO:  617
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  617
+frame NO:  617
+frame NO:  617
+frame NO:  630
+frame NO:  630
+frame NO:  630
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  630
+frame NO:  630
+frame NO:  630
+frame NO:  645
+frame NO:  645
+frame NO:  645
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  645
+frame NO:  646
+frame NO:  646
+frame NO:  652
+frame NO:  652
+frame NO:  652
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  652
+frame NO:  652
+frame NO:  652
+frame NO:  666
+frame NO:  666
+frame NO:  666
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  666
+frame NO:  666
+frame NO:  666
+frame NO:  672
+frame NO:  673
+frame NO:  673
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  673
+frame NO:  673
+frame NO:  673
+frame NO:  686
+frame NO:  686
+frame NO:  686
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  686
+frame NO:  686
+frame NO:  687
+frame NO:  700
+frame NO:  700
+frame NO:  700
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  701
+frame NO:  701
+frame NO:  701
+frame NO:  707
+frame NO:  708
+frame NO:  708
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  708
+frame NO:  708
+frame NO:  708
+frame NO:  721
+frame NO:  722
+frame NO:  722
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  722
+frame NO:  722
+frame NO:  722
+frame NO:  728
+frame NO:  728
+frame NO:  728
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  728
+frame NO:  728
+frame NO:  728
+frame NO:  742
+frame NO:  742
+frame NO:  742
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  742
+frame NO:  742
+frame NO:  742
+frame NO:  756
+frame NO:  757
+frame NO:  757
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  757
+frame NO:  757
+frame NO:  757
+frame NO:  764
+frame NO:  764
+frame NO:  764
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  764
+frame NO:  764
+frame NO:  764
+frame NO:  777
+frame NO:  777
+frame NO:  777
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  777
+frame NO:  778
+frame NO:  778
+frame NO:  784
+frame NO:  784
+frame NO:  784
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  784
+frame NO:  784
+frame NO:  784
+frame NO:  799
+frame NO:  799
+frame NO:  799
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  799
+frame NO:  799
+frame NO:  799
+frame NO:  813
+frame NO:  813
+frame NO:  813
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  813
+frame NO:  813
+frame NO:  814
+frame NO:  820
+frame NO:  820
+frame NO:  820
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  820
+frame NO:  820
+frame NO:  820
+frame NO:  834
+frame NO:  834
+frame NO:  834
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  834
+frame NO:  834
+frame NO:  834
+frame NO:  841
+frame NO:  841
+frame NO:  841
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  841
+frame NO:  842
+frame NO:  842
+frame NO:  856
+frame NO:  856
+frame NO:  856
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  856
+frame NO:  856
+frame NO:  856
+frame NO:  863
+frame NO:  863
+frame NO:  863
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  863
+frame NO:  863
+frame NO:  863
+frame NO:  870
+frame NO:  870
+frame NO:  870
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  870
+frame NO:  870
+frame NO:  870
+frame NO:  884
+frame NO:  884
+frame NO:  884
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  884
+frame NO:  884
+frame NO:  884
+frame NO:  891
+frame NO:  891
+frame NO:  891
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  891
+frame NO:  891
+frame NO:  891
+frame NO:  898
+frame NO:  898
+frame NO:  898
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  898
+frame NO:  898
+frame NO:  898
+frame NO:  912
+frame NO:  912
+frame NO:  912
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  912
+frame NO:  912
+frame NO:  912
+frame NO:  919
+frame NO:  920
+frame NO:  920
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  920
+frame NO:  920
+frame NO:  920
+frame NO:  926
+frame NO:  926
+frame NO:  926
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  926
+frame NO:  926
+frame NO:  926
+frame NO:  940
+frame NO:  940
+frame NO:  940
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  940
+frame NO:  940
+frame NO:  940
+frame NO:  948
+frame NO:  948
+frame NO:  948
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  948
+frame NO:  948
+frame NO:  948
+frame NO:  954
+frame NO:  955
+frame NO:  955
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  955
+frame NO:  955
+frame NO:  955
+frame NO:  969
+frame NO:  969
+frame NO:  969
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  969
+frame NO:  969
+frame NO:  969
+frame NO:  976
+frame NO:  976
+frame NO:  976
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  976
+frame NO:  976
+frame NO:  976
+frame NO:  983
+frame NO:  983
+frame NO:  983
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  983
+frame NO:  983
+frame NO:  983
+frame NO:  990
+frame NO:  990
+frame NO:  990
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  990
+frame NO:  990
+frame NO:  990
+frame NO:  1000
+frame NO:  1000
+frame NO:  1000
+frame NO:  1000
+frame NO:  1000
+frame NO:  1000
+frame NO:  994
+frame NO:  994
+frame NO:  994
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  994
+frame NO:  994
+frame NO:  994
+frame NO:  987
+frame NO:  987
+frame NO:  987
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  987
+frame NO:  987
+frame NO:  987
+frame NO:  980
+frame NO:  980
+frame NO:  980
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  979
+frame NO:  979
+frame NO:  979
+frame NO:  966
+frame NO:  965
+frame NO:  965
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  965
+frame NO:  965
+frame NO:  965
+frame NO:  958
+frame NO:  958
+frame NO:  958
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  958
+frame NO:  958
+frame NO:  958
+frame NO:  950
+frame NO:  950
+frame NO:  950
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  950
+frame NO:  950
+frame NO:  950
+frame NO:  936
+frame NO:  936
+frame NO:  936
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  936
+frame NO:  936
+frame NO:  936
+frame NO:  930
+frame NO:  930
+frame NO:  930
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  930
+frame NO:  929
+frame NO:  929
+frame NO:  922
+frame NO:  922
+frame NO:  922
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  922
+frame NO:  922
+frame NO:  922
+frame NO:  908
+frame NO:  908
+frame NO:  908
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  908
+frame NO:  908
+frame NO:  908
+frame NO:  900
+frame NO:  900
+frame NO:  900
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  900
+frame NO:  900
+frame NO:  900
+frame NO:  894
+frame NO:  894
+frame NO:  894
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  894
+frame NO:  894
+frame NO:  894
+frame NO:  880
+frame NO:  880
+frame NO:  880
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  880
+frame NO:  880
+frame NO:  879
+frame NO:  873
+frame NO:  873
+frame NO:  873
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  873
+frame NO:  873
+frame NO:  873
+frame NO:  858
+frame NO:  858
+frame NO:  858
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  858
+frame NO:  858
+frame NO:  858
+frame NO:  852
+frame NO:  852
+frame NO:  852
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  852
+frame NO:  852
+frame NO:  852
+frame NO:  838
+frame NO:  838
+frame NO:  838
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  838
+frame NO:  838
+frame NO:  838
+frame NO:  824
+frame NO:  824
+frame NO:  824
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  823
+frame NO:  823
+frame NO:  823
+frame NO:  817
+frame NO:  816
+frame NO:  816
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  816
+frame NO:  816
+frame NO:  816
+frame NO:  802
+frame NO:  802
+frame NO:  802
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  802
+frame NO:  802
+frame NO:  802
+frame NO:  796
+frame NO:  796
+frame NO:  796
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  796
+frame NO:  796
+frame NO:  796
+frame NO:  782
+frame NO:  782
+frame NO:  782
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  782
+frame NO:  782
+frame NO:  782
+frame NO:  768
+frame NO:  768
+frame NO:  768
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  768
+frame NO:  768
+frame NO:  768
+frame NO:  761
+frame NO:  761
+frame NO:  760
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  760
+frame NO:  760
+frame NO:  760
+frame NO:  747
+frame NO:  746
+frame NO:  746
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  746
+frame NO:  746
+frame NO:  746
+frame NO:  740
+frame NO:  740
+frame NO:  740
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  740
+frame NO:  740
+frame NO:  740
+frame NO:  724
+frame NO:  724
+frame NO:  724
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  724
+frame NO:  724
+frame NO:  724
+frame NO:  719
+frame NO:  718
+frame NO:  718
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  718
+frame NO:  718
+frame NO:  718
+frame NO:  704
+frame NO:  704
+frame NO:  704
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  704
+frame NO:  704
+frame NO:  704
+frame NO:  690
+frame NO:  690
+frame NO:  690
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  690
+frame NO:  690
+frame NO:  690
+frame NO:  684
+frame NO:  684
+frame NO:  684
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  684
+frame NO:  684
+frame NO:  684
+frame NO:  670
+frame NO:  669
+frame NO:  669
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  669
+frame NO:  669
+frame NO:  669
+frame NO:  662
+frame NO:  662
+frame NO:  662
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  662
+frame NO:  662
+frame NO:  662
+frame NO:  648
+frame NO:  648
+frame NO:  648
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  648
+frame NO:  648
+frame NO:  648
+frame NO:  634
+frame NO:  634
+frame NO:  634
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  634
+frame NO:  633
+frame NO:  633
+frame NO:  626
+frame NO:  626
+frame NO:  626
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  626
+frame NO:  626
+frame NO:  626
+frame NO:  612
+frame NO:  612
+frame NO:  612
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  612
+frame NO:  612
+frame NO:  612
+frame NO:  598
+frame NO:  598
+frame NO:  598
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  597
+frame NO:  597
+frame NO:  597
+frame NO:  584
+frame NO:  583
+frame NO:  583
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  583
+frame NO:  583
+frame NO:  583
+frame NO:  576
+frame NO:  576
+frame NO:  576
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  576
+frame NO:  576
+frame NO:  576
+frame NO:  562
+frame NO:  561
+frame NO:  561
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  561
+frame NO:  561
+frame NO:  561
+frame NO:  555
+frame NO:  555
+frame NO:  555
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  555
+frame NO:  555
+frame NO:  555
+frame NO:  542
+frame NO:  542
+frame NO:  542
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  542
+frame NO:  542
+frame NO:  542
+frame NO:  528
+frame NO:  528
+frame NO:  528
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  528
+frame NO:  527
+frame NO:  527
+frame NO:  520
+frame NO:  520
+frame NO:  520
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  520
+frame NO:  520
+frame NO:  520
+frame NO:  513
+frame NO:  513
+frame NO:  513
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  512
+frame NO:  512
+frame NO:  512
+frame NO:  498
+frame NO:  498
+frame NO:  498
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  498
+frame NO:  498
+frame NO:  498
+frame NO:  490
+frame NO:  490
+frame NO:  490
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  490
+frame NO:  490
+frame NO:  490
+frame NO:  476
+frame NO:  476
+frame NO:  476
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  476
+frame NO:  476
+frame NO:  476
+frame NO:  470
+frame NO:  470
+frame NO:  470
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  470
+frame NO:  470
+frame NO:  469
+frame NO:  454
+frame NO:  454
+frame NO:  454
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  454
+frame NO:  454
+frame NO:  454
+frame NO:  448
+frame NO:  448
+frame NO:  448
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  448
+frame NO:  448
+frame NO:  448
+frame NO:  435
+frame NO:  435
+frame NO:  434
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  434
+frame NO:  434
+frame NO:  434
+frame NO:  421
+frame NO:  421
+frame NO:  421
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  421
+frame NO:  420
+frame NO:  420
+frame NO:  414
+frame NO:  414
+frame NO:  414
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  414
+frame NO:  414
+frame NO:  414
+frame NO:  400
+frame NO:  400
+frame NO:  400
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  400
+frame NO:  400
+frame NO:  400
+frame NO:  393
+frame NO:  393
+frame NO:  392
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  392
+frame NO:  392
+frame NO:  392
+frame NO:  378
+frame NO:  378
+frame NO:  378
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  378
+frame NO:  378
+frame NO:  378
+frame NO:  364
+frame NO:  364
+frame NO:  364
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  364
+frame NO:  364
+frame NO:  364
+frame NO:  357
+frame NO:  357
+frame NO:  357
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  357
+frame NO:  357
+frame NO:  357
+frame NO:  350
+frame NO:  350
+frame NO:  350
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  350
+frame NO:  350
+frame NO:  350
+frame NO:  335
+frame NO:  335
+frame NO:  335
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  335
+frame NO:  334
+frame NO:  334
+frame NO:  328
+frame NO:  328
+frame NO:  328
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  328
+frame NO:  328
+frame NO:  328
+frame NO:  315
+frame NO:  315
+frame NO:  315
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  315
+frame NO:  315
+frame NO:  315
+frame NO:  308
+frame NO:  308
+frame NO:  308
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  308
+frame NO:  308
+frame NO:  308
+frame NO:  294
+frame NO:  293
+frame NO:  293
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  293
+frame NO:  293
+frame NO:  293
+frame NO:  280
+frame NO:  280
+frame NO:  280
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  280
+frame NO:  280
+frame NO:  280
+frame NO:  273
+frame NO:  273
+frame NO:  273
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  273
+frame NO:  273
+frame NO:  273
+frame NO:  260
+frame NO:  260
+frame NO:  259
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  259
+frame NO:  259
+frame NO:  259
+frame NO:  253
+frame NO:  252
+frame NO:  252
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  252
+frame NO:  252
+frame NO:  252
+frame NO:  238
+frame NO:  238
+frame NO:  237
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  237
+frame NO:  237
+frame NO:  237
+frame NO:  232
+frame NO:  232
+frame NO:  232
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  232
+frame NO:  232
+frame NO:  232
+frame NO:  218
+frame NO:  218
+frame NO:  218
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  218
+frame NO:  218
+frame NO:  218
+frame NO:  204
+frame NO:  204
+frame NO:  204
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  204
+frame NO:  204
+frame NO:  204
+frame NO:  197
+frame NO:  196
+frame NO:  196
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  196
+frame NO:  196
+frame NO:  196
+frame NO:  183
+frame NO:  183
+frame NO:  183
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  183
+frame NO:  183
+frame NO:  182
+frame NO:  176
+frame NO:  176
+frame NO:  176
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  176
+frame NO:  176
+frame NO:  176
+frame NO:  162
+frame NO:  162
+frame NO:  162
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  162
+frame NO:  162
+frame NO:  162
+frame NO:  148
+frame NO:  148
+frame NO:  148
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  148
+frame NO:  148
+frame NO:  148
+frame NO:  141
+frame NO:  141
+frame NO:  141
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  141
+frame NO:  141
+frame NO:  140
+frame NO:  127
+frame NO:  127
+frame NO:  127
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  127
+frame NO:  127
+frame NO:  127
+frame NO:  120
+frame NO:  120
+frame NO:  120
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  120
+frame NO:  120
+frame NO:  120
+frame NO:  113
+frame NO:  113
+frame NO:  113
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  113
+frame NO:  113
+frame NO:  113
+frame NO:  98
+frame NO:  98
+frame NO:  98
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  98
+frame NO:  98
+frame NO:  98
+frame NO:  92
+frame NO:  92
+frame NO:  92
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  92
+frame NO:  92
+frame NO:  92
+frame NO:  84
+frame NO:  84
+frame NO:  84
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  84
+frame NO:  84
+frame NO:  84
+frame NO:  70
+frame NO:  70
+frame NO:  70
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  70
+frame NO:  70
+frame NO:  70
+frame NO:  64
+frame NO:  63
+frame NO:  63
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  63
+frame NO:  63
+frame NO:  63
+frame NO:  57
+frame NO:  56
+frame NO:  56
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  56
+frame NO:  56
+frame NO:  56
+frame NO:  42
+frame NO:  42
+frame NO:  42
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  42
+frame NO:  42
+frame NO:  42
+frame NO:  35
+frame NO:  35
+frame NO:  35
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  35
+frame NO:  35
+frame NO:  35
+frame NO:  28
+frame NO:  28
+frame NO:  28
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  28
+frame NO:  28
+frame NO:  28
+frame NO:  14
+frame NO:  14
+frame NO:  14
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  14
+frame NO:  14
+frame NO:  14
+frame NO:  8
+frame NO:  8
+frame NO:  8
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  8
+frame NO:  8
+frame NO:  8
+frame NO:  1
+frame NO:  1
+frame NO:  1
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+frame NO:  0
+frame NO:  0
+frame NO:  0
+frame NO:  0
+frame NO:  0
+frame NO:  0
+qrc:/C1yc_dual_gauge_fuel_level_gauge.qml:0: ReferenceError: coolant_needle_item is not defined
+[HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] update anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] update anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] update anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] remove anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] remove anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] remove anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] update anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] update anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] update anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] update anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] update anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] update anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] remove anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] remove anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] remove anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] remove anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] remove anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] remove anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] update anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] update anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] update anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] remove anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] remove anim, erase failed
+2024-10-18 11:24:01 VERBOSE [RAMP][HMIC][ScreenBase] remove anim, erase failed
+2024-10-18 11:24:02 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:06 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:07 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,12,0}
+2024-10-18 11:24:07 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=134144 
+2024-10-18 11:24:07 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,16,0}
+2024-10-18 11:24:07 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=135168 
+2024-10-18 11:24:08 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,20,0}
+2024-10-18 11:24:08 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=136192 
+2024-10-18 11:24:10 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:14 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:18 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:22 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:26 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:28 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,24,0}
+2024-10-18 11:24:28 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=137216 
+2024-10-18 11:24:29 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,28,0}
+2024-10-18 11:24:29 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=138240 
+2024-10-18 11:24:30 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,32,0}
+2024-10-18 11:24:30 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=139264 
+2024-10-18 11:24:30 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:30 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,36,0}
+2024-10-18 11:24:30 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=140288 
+2024-10-18 11:24:31 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,40,0}
+2024-10-18 11:24:31 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=141312 
+2024-10-18 11:24:31 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,44,0}
+2024-10-18 11:24:31 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=142336 
+2024-10-18 11:24:31 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,48,0}
+2024-10-18 11:24:31 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=143360 
+2024-10-18 11:24:34 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:38 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:42 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:46 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:50 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:54 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:24:56 INFO [RAMP][HMIC][RhmiAppInterface] initRhmiHandshake, 0
+2024-10-18 11:24:58 INFO [RAMP][HMIC][TcpSessionHandler] Connection Retrying:, 127.0.0.1, 9002
+2024-10-18 11:24:58 VERBOSE [RAMP][HMIC][TcpClient] Socket is created, 3172
+2024-10-18 11:24:58 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:02 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:06 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:10 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:14 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:18 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:22 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:26 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:30 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:34 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:38 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:42 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:46 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:50 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:54 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:25:56 INFO [RAMP][HMIC][RhmiAppInterface] initRhmiHandshake, 0
+2024-10-18 11:25:58 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:00 INFO [RAMP][HMIC][TcpSessionHandler] Connection Retrying:, 127.0.0.1, 9002
+2024-10-18 11:26:00 VERBOSE [RAMP][HMIC][TcpClient] Socket is created, 1352
+2024-10-18 11:26:02 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:06 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:10 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:14 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:18 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:22 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:26 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:30 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:34 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:38 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:42 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:46 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:50 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:54 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:26:56 INFO [RAMP][HMIC][RhmiAppInterface] initRhmiHandshake, 0
+2024-10-18 11:26:58 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:27:02 INFO [RAMP][HMIC][TcpSessionHandler] Connection Retrying:, 127.0.0.1, 9002
+2024-10-18 11:27:02 VERBOSE [RAMP][HMIC][TcpClient] Socket is created, 1740
+2024-10-18 11:27:02 INFO [RAMP][HMIC][HAM] send HAM heartbeat success
+2024-10-18 11:27:03 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,52,0}
+2024-10-18 11:27:03 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=144384 
+2024-10-18 11:27:03 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,56,0}
+2024-10-18 11:27:03 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=145408 
+2024-10-18 11:27:03 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,60,0}
+2024-10-18 11:27:03 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=146432 
+2024-10-18 11:27:05 VERBOSE [RAMP][HMIC][OdiDataHandler_Win] Data, {10,3,0,21,38,14,0,0,2,56,0}
+2024-10-18 11:27:05 VERBOSE [RAMP][HMIC][ODI] DYN, 21,38=145408 
+2024-10-18 11:27:05 VERBOSE [RAMP][HMIC

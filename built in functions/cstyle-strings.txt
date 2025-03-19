@@ -1,0 +1,90 @@
+C-Style Strings in C++
+A C-style string is an array of characters terminated by a null character (\0). 
+It is the traditional way of handling strings in C programming before std::string was introduced in C++.
+1️⃣ C-Style String Declaration
+C-style strings are represented as character arrays (char[]).
+
+cpp
+Copy
+Edit
+char str1[] = "Hello";   // Automatically adds '\0' at the end
+char str2[6] = "Hello";  // Explicit size
+char str3[] = {'H', 'e', 'l', 'l', 'o', '\0'};  // Manually adding '\0'
+char str4[10] = "Hi";    // Extra space but still null-terminated
+The \0 (null terminator) marks the end of the string. Without it, functions like strlen() would not work correctly.
+2️⃣ Using Pointers to C-Style Strings
+You can also use a pointer to a string literal:
+
+cpp
+Copy
+Edit
+const char* str = "Hello";  // String literal stored in read-only memory
+💡 Modifying str is undefined behavior because string literals are stored in read-only memory.
+
+3️⃣ C-Style String Functions (from <cstring>)
+Since C-style strings do not have built-in methods like std::string, we use functions from <cstring>.
+
+Function	Description	Example
+strlen(str)	Returns the length (excluding \0)	strlen("Hello") → 5
+strcpy(dest, src)	Copies src to dest	char dest[10]; strcpy(dest, "Hi");
+strncpy(dest, src, n)	Copies n characters to dest	strncpy(dest, "Hello", 3);
+strcmp(s1, s2)	Compares two strings (0 if equal)	strcmp("abc", "abc") → 0
+strcat(dest, src)	Appends src to dest	char d[10] = "Hi "; strcat(d, "John");
+strchr(str, ch)	Finds the first occurrence of ch	strchr("apple", 'p') → "pple"
+strstr(str, sub)	Finds a substring in a string	strstr("hello world", "world")
+Example Using C-Style Strings:
+cpp
+Copy
+Edit
+#include <iostream>
+#include <cstring>
+
+using namespace std;
+
+int main() {
+    char str1[] = "Hello";
+    char str2[10];
+
+    // Copying strings
+    strcpy(str2, str1);
+    cout << "Copied String: " << str2 << endl;
+
+    // Finding length
+    cout << "Length of str1: " << strlen(str1) << endl;
+
+    // Comparing strings
+    cout << "Comparison result: " << strcmp("abc", "abc") << endl;
+
+    // Concatenation
+    strcat(str2, " World");
+    cout << "Concatenated String: " << str2 << endl;
+
+    return 0;
+}
+4️⃣ Difference: C-Style Strings vs. std::string
+Feature	C-Style String	std::string
+Storage	Character array (char[])	Dynamic string class
+Memory Management	Manual (fixed-size array)	Automatic
+String Length	strlen()	.length() or .size()
+Concatenation	strcat(dest, src)	s1 + s2
+Comparison	strcmp(s1, s2)	s1 == s2
+Safety	Prone to buffer overflows	Safe & easy to use
+5️⃣ Converting Between C-Style Strings and std::string
+Convert std::string to C-Style String (char*)
+cpp
+Copy
+Edit
+string str = "Hello";
+const char* cstr = str.c_str();  // Use .c_str()
+cout << strlen(cstr) << endl;
+Convert C-Style String (char*) to std::string
+cpp
+Copy
+Edit
+char cstr[] = "Hello";
+string str = string(cstr);
+cout << str.length() << endl;
+📌 Summary
+✅ C-Style Strings are arrays of characters ending with \0 and require functions from <cstring>.
+✅ std::string (C++ strings) provide built-in methods and are easier to use.
+✅ Avoid strcpy(), strcat(), and strcmp() if possible—use std::string for safer handling.
